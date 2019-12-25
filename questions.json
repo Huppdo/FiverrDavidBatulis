@@ -1,0 +1,106 @@
+{"Q0":{"question": "What is the name of your organization? [40 chars or less]",
+  "min": 0,
+  "max": 0,
+  "ID": "Org."
+},"Q1":{"question": "How many hours on a WEEKDAY are ORDERLY (vs easygoing or disorderly)? [don't count sleep]",
+  "min": 0,
+  "max": 24,
+  "ID": "A1"
+},"Q2":{"question": "How many hours on a WEEKDAY are SPONTANEOUS (vs systematic or predictable)?  [don't count sleep]",
+  "min": 0,
+  "max": 24,
+  "ID": "A2"
+},"Q3":{"question": "How many hours on a WEEKDAY are SPUR OF THE MOMENT (vs orderly or predictable)? [don't count sleep]",
+  "min": 0,
+  "max": 24,
+  "ID": "A3"
+},"Q4":{"question": "How many hours on a WEEKDAY are SYSTEMATIC (vs spontaneous or spur of the moment)? [don't count sleep]\n",
+  "min": 0,
+  "max": 24,
+  "ID": "A4"
+},"Q5":{"question": "What percent of your ENERGY is towards PRODUCTION (vs design or theory)?",
+  "min": 0,
+  "max": 100,
+  "ID": "B6"
+},"Q6":{"question": "What percent of your ENERGY is towards CONCEPTS (vs statements or facts?)\n",
+  "min": 0,
+  "max": 100,
+  "ID": "B8"
+},"Q7":{"question": "What percent of your ENERGY is towards NOVELTY (vs what is already known?)\n",
+  "min": 0,
+  "max": 100,
+  "ID": "B9"
+},"Q8":{"question": "What percent of your ENERGY is towards FACTS (vs design or theory)?\n",
+  "min": 0,
+  "max": 100,
+  "ID": "B10"
+},"Q9":{"question": "What percent of your WORK should be SELFISHLY devoted to your welfare?\n",
+  "min": 0,
+  "max": 100,
+  "ID": "C12"
+},"Q10":{"question": "What percent of your WORK should be UNSELFISHLY devoted to the welfare of others?\n",
+  "min": 0,
+  "max": 100,
+  "ID": "C13"
+},"Q11":{"question": "What percent of your WORK should be GUIDED WITHIN you (vs beyond you?)\n",
+  "min": 0,
+  "max": 100,
+  "ID": "C15"
+},"Q12":{"question": "What percent of your WORK should be SERVING OTHERS (vs freeloading on others)?\n",
+  "min": 0,
+  "max": 100,
+  "ID": "C18"
+},"Q13":{"question": "What percent of the time are you a GOOD MIXER that gravitates towards QUANTITIES of people (vs quietly mix with one or zero?)\n",
+  "min": 0,
+  "max": 100,
+  "ID": "D20"
+},"Q14":{"question": "What percent of the time are you RESERVED at social mixing (vs a strong mingler)?\n",
+  "min": 0,
+  "max": 100,
+  "ID": "D21"
+},"Q15":{"question": "What percent of the time are you FAST MAKING ACQUAINTANCES (vs guarded mixing with one or zero?)\n",
+  "min": 0,
+  "max": 100,
+  "ID": "D22"
+},"Q16":{"question": "What percent of the time are you a TROUBLEMAKER at social gatherings (vs withholding to mixing with one or zero)?\n",
+  "min": 0,
+  "max": 100,
+  "ID": "D23"
+},"Q17":{"question": "How many DAYS in the last MONTH (30 days) did you feel HOPELESS about work\n",
+  "min": 0,
+  "max": 30,
+  "ID": "E29"
+},"Q18":{"question": "How many DAYS in the last MONTH (30 days) did you WORRY about work\n",
+  "min": 0,
+  "max": 30,
+  "ID": "E30"
+},"Q19":{"question": "How many HOURS do you SLEEP on WEEKDAYS (for this month)?\n",
+  "min": 0,
+  "max": 12,
+  "ID": "E31"
+},"Q20":{"question": "How many DAYS in the last MONTH (30 days) did you feel EXHAUSTED about work\n",
+  "min": 0,
+  "max": 30,
+  "ID": "E32"
+},"Q21":{"question": "How many DAYS in the last MONTH (30 days) did you feel PERSONAL DIGNITY about work?\n",
+  "min": 0,
+  "max": 30,
+  "ID": "E33"
+},"Q22":{"question": "How many DAYS in the last MONTH (30 days) did you feel STOIC\n",
+  "min": 0,
+  "max": 30,
+  "ID": "E34"
+},"Q23":{"question": "END",
+  "min": 0,
+  "max": 0,
+  "ID": ""
+},"Q24":{"question": "",
+  "min": 0,
+  "max": 0,
+  "ID": ""
+},"Q25":{"question": "",
+  "min": 0,
+  "max": 0,
+  "ID": ""
+}
+}
